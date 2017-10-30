@@ -24,7 +24,7 @@ Co-created [Conditionizr](http://conditionizr.com) (.NET Magazine's Open Source 
 | 26.10.2017 | Ultimate Angular passes 40,000 users |
 | 19.10.2017 | Launched [liquify.io](https://liquify.io) |
 | 16.10.2017 | Attended Porsche Driving Experience Day at Silverstone |
-| 11.09.2017 | Witnessed Hurricane Irma ([video)[https://twitter.com/toddmotto/status/907284716625244163])|
+| 11.09.2017 | Witnessed Hurricane Irma ([video](https://twitter.com/toddmotto/status/907284716625244163))|
 | 07.07.2017 | Opening keynote presentation at AngularCamp 2017 |
 | 06.04.2017 | ngConf workshop: AngularJS to Angular migrations |
 | 05.04.2017 | Visited Salt Lake City, Utah, for the first time |
