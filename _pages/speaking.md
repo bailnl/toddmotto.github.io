@@ -7,7 +7,7 @@ permalink: /speaking
 
 I regularly speak at conferences in Europe and America, if you'd like me to join yours, please email me, todd@toddmotto.com and we can discuss further.
 
-_Please note:_ I prefer to speak at Angular-specific conferences. Thank you :)
+_Please note:_ I prefer to speak at Angular-related conferences. Thank you :)
 
 <div class="speaking__grid">
   <ul>
@@ -45,10 +45,19 @@ Upcoming events I'll be speaking at.
 <div class="speaking__list">
   <ul>
     <li>
-      <a href="http://ng-poland.pl">NgPoland</a>, Warsaw (Poland), <span>21.11.2017</span>
+      <a href="https://www.angularconnect.com">[ngrx workshop] AngularConnect</a>, London (England), <span>07.11.2017</span>
     </li>
     <li>
-      <a href="https://www.angularconnect.com">[workshop] AngularConnect</a>, London (England), <span>7.11.2017</span>
+      <a href="http://ng-poland.pl">[ngrx workshop] NgPoland</a>, Warsaw (Poland), <span>20.11.2017</span>
+    </li>
+    <li>
+      <a href="http://ng-poland.pl">[opening keynote] NgPoland</a>, Warsaw (Poland), <span>21.11.2017</span>
+    </li>
+    <li>
+      <a href="https://ngeurope.org/">[ngrx workshop] ngEurope</a>, Paris (France), <span>01.02.2018</span>
+    </li>
+    <li>
+      <a href="https://www.ng-conf.org">[ngrx workshop] ngConf</a>, SLC, Utah (USA), <span>18.04.2018</span>
     </li>
   </ul>
 </div>
