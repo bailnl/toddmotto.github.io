@@ -21,15 +21,23 @@ Co-created [Conditionizr](http://conditionizr.com) (.NET Magazine's Open Source 
 
 | Date | Comments |
 | ---- | ---- |
+| 26.10.2017 | Ultimate Angular passes 40,000 users |
+| 19.10.2017 | Launched [liquify.io](https://liquify.io) |
+| 16.10.2017 | Attended Porsche Driving Experience Day at Silverstone |
+| 11.09.2017 | Witnessed Hurricane Irma ([video)[https://twitter.com/toddmotto/status/907284716625244163])|
+| 07.07.2017 | Opening keynote presentation at AngularCamp 2017 |
+| 06.04.2017 | ngConf workshop: AngularJS to Angular migrations |
+| 05.04.2017 | Visited Salt Lake City, Utah, for the first time |
 | 18.03.2017 | Drove a Ferrari 458, Audi R8 V10+, Lamborghini Aventador around Topgear's circuit |
 | 16.03.2017 | Opening keynote at NG-NL |
+| 18.01.2017 | [Walked an elephant](https://twitter.com/toddmotto/status/822336294395125760) in Thailand |
 | 13.01.2017 | Visited Thailand for the first time |
 | 24.12.2016 | Got engaged to [Rachael](https://twitter.com/RachaellPurser)! |
 | 08.12.2016 | Visited Ghent, Belgium for the first time |
 | 22.11.2016 | Ultimate Angular wins "Best Angular Product for Education" |
 | 28.09.2016 | First AngularConnect talk |
 | 07.08.2016 | Visited Sofia, Bulgaria for the first time |
-| 01.08.2016 | Opening keynote presentation at AngularCamp |
+| 01.08.2016 | Opening keynote presentation at AngularCamp 2016 |
 | 01.07.2016 | Visited Barcelona, Spain for the first time |
 | 25.05.2016 | Visited Copenhagen, Denmark for the first time |
 | 30.04.2016 | First opening keynote presentation at Voxxed Ticino |
